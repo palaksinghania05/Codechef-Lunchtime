@@ -3,7 +3,7 @@ You are given an integer N. Consider the sequence containing the integers 1,2,â€
 Find the maximum length of its contiguous subsequence with an even sum.
  */
 
-package august;
+package y2021.august;
 
 import java.util.Scanner;
 

@@ -5,7 +5,7 @@ increases by P. Before going to sleep, Chef wants to use exactly two spells out 
 Find the maximum number of hit points Chef can have after using the spells.
  */
 
-package july;
+package y2021.july;
 
 import java.util.Scanner;
 

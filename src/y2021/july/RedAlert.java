@@ -8,7 +8,7 @@ on such a day. However, if the water level is less than D millimetres before the
 zero instead.
 There will be a red alert in the city if the water level becomes strictly greater than H millimetres on at least one of the N days. Determine if there will be a red alert.
  */
-package july;
+package y2021.july;
 
 import java.util.Scanner;
 

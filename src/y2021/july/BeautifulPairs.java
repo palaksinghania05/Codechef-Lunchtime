@@ -1,4 +1,4 @@
-package july;
+package y2021.july;
 
 import java.util.Scanner;
 

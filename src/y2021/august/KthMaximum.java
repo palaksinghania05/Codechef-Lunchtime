@@ -4,9 +4,8 @@ AL,AL+1,…,AR such that R−L+1≥K and the K-th element of the subsequence (AL
 is equal to the maximum of all elements of the entire sequence.
  */
 
-package august;
+package y2021.august;
 
-import java.util.ArrayDeque;
 import java.util.Arrays;
 import java.util.Scanner;
 

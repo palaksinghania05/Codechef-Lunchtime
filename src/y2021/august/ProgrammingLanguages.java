@@ -6,7 +6,7 @@ Tell Chef whether he can use the first language, the second language or neither 
 (if no single language has all the required features).
  */
 
-package august;
+package y2021.august;
 
 import java.util.Scanner;
 
